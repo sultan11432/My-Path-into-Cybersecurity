@@ -7,12 +7,12 @@ Goal: learn the fundamentals (networking, Linux, Python, core security concepts)
 
 ## Track 1: Git & GitHub (do this in the first week)
 
-- [ ] Create a GitHub account
-- [ ] Install Git locally, configure `git config user.name` / `user.email`
-- [ ] Complete "Learn Git Branching" (learngitbranching.js.org)
-- [ ] Create a repository `cybersecurity-journey`
-- [ ] Set up structure: `notes/`, `writeups/`, `scripts/`, `README.md`
-- [ ] Make the first commit
+- [x] Create a GitHub account
+- [x] Install Git locally, configure `git config user.name` / `user.email`
+- [x] Complete "Learn Git Branching" (learngitbranching.js.org)
+- [x] Create a repository `cybersecurity-journey`
+- [x] Set up structure: `notes/`, `writeups/`, `scripts/`, `README.md`
+- [x] Make the first commit
 
 ---
 
